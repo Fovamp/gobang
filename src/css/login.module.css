@@ -1,0 +1,11 @@
+.home{
+    float: left;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.home:hover{
+    color: black;
+}
